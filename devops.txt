@@ -12,4 +12,7 @@ I am learning course in marthahalli
 instutate name is javahome cloud
 trainer name is hari kammana
 and my new number is 9143143143
+<<<<<<< HEAD
 I like to get the job as soon as possible
+=======
+>>>>>>> 259020a (remote commit 2)
