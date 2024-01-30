@@ -16,3 +16,4 @@ and my new number is 9143143143
 I like to get the job as soon as possible
 =======
 >>>>>>> 259020a (remote commit 2)
+after that i have learn about aws
